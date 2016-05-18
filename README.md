@@ -1,3 +1,3 @@
 # hello-world
 Just an other repository
-Trying Github
+Trying Github v2
